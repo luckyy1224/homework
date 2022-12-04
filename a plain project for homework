@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{shapepar}
+\title{Project1}
+\author{Yang Junshi }
+\date{December 2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\begin{center}
+    a plain project for homework
+\end{center}
+\heartpar{heart shape heart shape heart shape heart shape}
+
+\end{document}
